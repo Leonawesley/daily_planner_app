@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is used for planning and scheduling the daily itinerary.
+This project is used for planning and scheduling the daily itinerary. In this project html, css, Javascript and Jquery are used to develop and manipulate webpages.
 
 ## Project Details
 In this application on the webpage header the current date will be displayed. The application will display the time from 9am to 5pm. User will be given a textarea to write their activites or schedule and a button to save the activites. Current hour will be displayed as red textarea. Past hours are displayed in grey textarea and future hours are displayed in green textarea.
